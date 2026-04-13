@@ -43,4 +43,4 @@ My research spans this area of Knowledge Editing, as it is called. My contributi
 * Explainable AI (attributions for Computer Vision models)
 * Neuro-Symbolic AI
 
-If any of my work is of interest or if you are would like to collaborate, please feel free to reach out.   
+If any of my work is of interest or if you would like to collaborate, please feel free to reach out.   
