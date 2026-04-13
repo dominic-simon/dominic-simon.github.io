@@ -37,3 +37,20 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+// Personal Bibliography 
+.me {
+  text-decoration: underline;
+}
+
+.more-authors {
+  color: #6c757d;            /* light gray like al-folio */
+  cursor: pointer;
+  border-bottom: 1px dotted #6c757d;
+  text-decoration: none;
+}
+
+.more-authors:hover {
+  color: #343a40;            /* darker on hover */
+  border-bottom: 1px dotted #343a40;
+}
